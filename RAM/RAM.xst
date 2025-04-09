@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/AJAY KUMAR/Desktop/vlsi/RAM/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/AJAY KUMAR/Desktop/vlsi/RAM/xst"
+elaborate
+-ifn RAM.prj
+-ifmt mixed

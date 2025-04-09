@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/AJAY KUMAR/Desktop/vlsi/PipelinedCPU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/AJAY KUMAR/Desktop/vlsi/PipelinedCPU/xst"
+elaborate
+-ifn PipelinedCPU.prj
+-ifmt mixed

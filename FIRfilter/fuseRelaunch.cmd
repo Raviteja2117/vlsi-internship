@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/AJAY KUMAR/Desktop/vlsi/FIRfilter/FIRfilter_tb_isim_beh.exe" -prj "C:/Users/AJAY KUMAR/Desktop/vlsi/FIRfilter/FIRfilter_tb_beh.prj" "work.FIRfilter_tb" "work.glbl" 
